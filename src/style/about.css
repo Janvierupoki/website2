@@ -1,0 +1,38 @@
+.about{
+  padding: 100px 0;
+  background-color:lightblue;
+ 
+}
+
+div {
+  text-align: center;
+  margin: 20px;
+
+
+}
+h2 {
+  color: #333; 
+}
+ p {
+  font-size: 18px;
+  color:black;
+  margin-bottom: 40px;
+}
+.item {
+  border: 1px solid #ccc; 
+  padding: 20px; 
+  margin: 20px; 
+  background-color: #f5f5f5; 
+}
+
+
+.item img {
+  max-width: 100%;
+}
+.item h3 {
+  color: #333;
+}
+.item p {
+  color: #666; 
+}
+
